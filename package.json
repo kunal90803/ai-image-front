@@ -11,6 +11,8 @@
     "eslint-plugin-react-refresh": "^0.4.1",
     "file-saver": "^2.0.5",
     "nodemon": "^2.0.22",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^9.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
